@@ -20,8 +20,8 @@ function divisao(a, b) {
     return a / b;
 }
 
-a = 5;
-b = 101;
+let a = 5;
+let b = 101;
 
 console.log('A soma de A e B eh: ' + somar(a, b));
 console.log('A subtracao de A e B eh: ' + subtrair(a, b));

@@ -18,8 +18,8 @@ const divisao = (a, b) => {
     return a / b;
 }
 
-a = 75;
-b = 24;
+let a = 75;
+let b = 24;
 
 console.log('A soma de A e B eh: ' + somar(a, b));
 console.log('A subtracao de A e B eh: ' + subtrair(a, b));
